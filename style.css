@@ -1,5 +1,6 @@
 body {
-    margin-bottom: 60px;
+    margin-bottom: 12%;
+    background-size: 100% 100%;
 }
 
 header {
@@ -11,48 +12,51 @@ header {
 
 h1 {
    float: left;
-   margin-left: 30px;
    background-color: #4aaaa5;
-   padding-top: 30px;
-   padding-bottom: 30px;
+   padding-top: 2.39%;
+   padding-bottom: 2.39%;
    margin-top: 0px;
    margin-bottom: 0px;
-   padding-left: 20px;
-   padding-right: 20px;
-   margin-left: 203px;
+   padding-left: 2%;
+   padding-right: 2%;
+   margin-left: 14.25%;
    color: white;
 
 }
 
-h3 {
+#h3 {
     float: right;
-    margin-right: 203px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    margin-right: 17%;
+    padding-top: 3%;
+    padding-bottom: 3%;
     margin-top: 0px;
     margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .full{
-    margin-left: 203px;
-    margin-right: 203px;
+    margin-left: 14.25%;
+    margin-right: 14.25%;
     float: center;
     background-color: white;
+    width: 69.11447%;
 }
 
 h2 {
     color: #4aaaa5;
-    padding-top: 40px;
-    padding-left: 40px;
+    padding-top: 4.85%;
+    padding-left: 4.85%;
+    font-size: 3em;
 }
 
-h4 {
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+#h4 {
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
     float: center;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
     border-top: 2px solid #4aaaa5;
     line-height: 180%;
     padding-top: 20px;
@@ -67,6 +71,6 @@ footer {
     background-color: darkgrey;
     color: darkgrey;
     text-align: center;
-    padding: 20px;
+    padding: 1.5%;
     border-top: 8px solid #4aaaa5;
 }

@@ -1,5 +1,6 @@
 body {
-    margin-bottom: 60px;
+    margin-bottom: 16%;
+    background-size: 100% 100%;
 }
 
 header {
@@ -11,68 +12,75 @@ header {
 
 h1 {
    float: left;
-   margin-left: 30px;
    background-color: #4aaaa5;
-   padding-top: 30px;
-   padding-bottom: 30px;
+   padding-top: 2.39%;
+   padding-bottom: 2.39%;
    margin-top: 0px;
    margin-bottom: 0px;
-   padding-left: 20px;
-   padding-right: 20px;
-   margin-left: 203px;
+   padding-left: 2%;
+   padding-right: 2%;
+   margin-left: 14.25%;
    color: white;
 }
 
-h3 {
+#h3 {
     float: right;
-    margin-right: 203px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-right: 17%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .full {
-    margin-left: 203px;
-    margin-right: 203px;
+    margin-left: 14.25%;
+    margin-right: 14.25%;
     float: center;
     background-color: white;
-    padding-bottom: 20px;
+    padding-bottom: 2%;
+    width: 69.1147%;
 }
 
-h4 {
-    border-top: 2px solid lightgrey;
-    margin-left: 20px;
-    margin-right: 24px;
+#h4 {
+    border-top: 2px solid #4aaaa5;
+    margin-left: 2.1%;
+    margin-right: 2.1%;
 }
 
 #name {
-    width: 886px;
+    width: 100%;
     overflow: auto;
     clear: both;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 3%;
     box-sizing: border-box;
+    font-weight: bold;
 }
 
 #email {
-    width: 886px;
+    width: 100%;
     overflow: auto;
     clear: both;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 4%;
     box-sizing: border-box;
+    font-weight: bold;
+}
+
+#writeme {
+    width: 100%;
+    font-weight: bold;
+}
+
+#submit {
+    width: 23%;
 }
 
 h2 {
     color: #4aaaa5;
-    padding-top: 40px;
-    padding-left: 40px;
-}
-
-submit {
-    margin-top: 10px;
-    padding: 20px;
+    padding-top: 4.85%;
+    padding-left: 4.85%;
+    font-size: 3em;
 }
 
 footer {
@@ -83,6 +91,6 @@ footer {
         background-color: darkgrey;
         color: darkgrey;
         text-align: center;
-        padding: 20px;
+        padding: 1.5%;
         border-top: 8px solid #4aaaa5;
 }
