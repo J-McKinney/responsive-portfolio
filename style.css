@@ -90,6 +90,7 @@ footer {
   body {
     width: 90%;
   }
+
   footer {
     width: 100%;
   }
@@ -99,6 +100,11 @@ footer {
   body {
     width: 90%;
   }
+
+  header {
+    position: static;
+  }
+
   footer {
     width: 100%;
   }

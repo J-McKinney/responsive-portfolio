@@ -111,6 +111,10 @@ footer {
     width: 90%;
   }
 
+  header {
+    position: static;
+  }
+
   .full img {
     width: 70%;
     height: 70%;
