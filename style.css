@@ -77,13 +77,8 @@ footer {
 
 @media only screen and (max-width: 980px) {
   body {
-    width: 100%;
+    width: 90%;
     margin-left: 5%;
-    margin-right: 5%;
-  }
-
-  header {
-    width: 100%;
   }
 
   footer {
@@ -93,9 +88,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
   body {
-    width: 100%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 90%;
   }
   footer {
     width: 100%;
@@ -104,9 +97,7 @@ footer {
 
 @media only screen and (max-width: 640px) {
   body {
-    width: 100%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 90%;
   }
   footer {
     width: 100%;
