@@ -1,5 +1,7 @@
+html,
 body {
-    margin-bottom: 12%;
+    margin: 0;
+    height: 100%;
     background-size: 100% 100%;
 }
 
@@ -36,6 +38,8 @@ h1 {
 }
 
 .full{
+  margin-top: 10%;
+  margin-bottom: 10%;
     margin-left: 14.25%;
     margin-right: 14.25%;
     float: center;
@@ -63,16 +67,23 @@ h2 {
     text-indent: 2.0em;
 }
 
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
 footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
+    position: sticky;
     width: 100%;
     background-color: darkgrey;
     color: darkgrey;
     text-align: center;
     padding: 1.5%;
     border-top: 8px solid #4aaaa5;
+}
+.footer,
+.push {
+  height: 50px;
 }
 
 @media only screen and (max-width: 980px) {
